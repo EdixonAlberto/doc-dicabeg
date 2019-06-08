@@ -1,11 +1,17 @@
-h1
+h1, h2, h3
     color #F37135
-
-.navbar, .navbar .links
-    color white
 
 .nav-item, .navbar span.site-name
-    color #F37135
+    color #404040
+
+.navbar, .navbar .links
+    color blue
+
+.nav-item a:not(.external).router-link-active
+    border-bottom-color #F37135
+
+.nav-item a:not(.external):hover
+    border-bottom-color #F37135
 
 .sidebar
     color white
@@ -26,9 +32,3 @@ h1
 
 blockquote
 	border-left-color #F37135
-
-img
-    float right
-    margin 0px
-    padding 0px
-    width 55%

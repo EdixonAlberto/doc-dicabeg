@@ -2,16 +2,20 @@
   "name": "doc-dicabeg",
   "version": "1.0.0",
   "description": "Documentación de app movil dicabeg",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
-  "author": "Edixon Alberto <edixonalbertto@gmail.com>",
+  "author": {
+    "name": "Edixon Alberto",
+    "email": "edixonalbertto@gmail.com",
+    "url": "https://www.linkedin.com/in/edixonalberto"
+  },
   "license": "GPL-3.0-only",
   "dependencies": {
     "vuepress": "^0.14.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
