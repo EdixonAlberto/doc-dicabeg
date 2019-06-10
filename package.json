@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Documentación de app movil dicabeg",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "author": {
     "name": "Edixon Alberto",
