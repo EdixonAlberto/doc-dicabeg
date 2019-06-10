@@ -2,7 +2,7 @@ module.exports = {
     base: "/doc-dicabeg/",
     title: 'Dicabeg',
     head: [
-        // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto' }],
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     description: 'Página de documentación para la app movil dicabeg',
