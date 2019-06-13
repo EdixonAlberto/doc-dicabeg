@@ -1,34 +1,45 @@
-h1, h2, h3
-    color #F37135
+@import val
 
-.nav-item, .navbar span.site-name
-    color #404040
+h1, h2, h3, h4
+    color $dicabegColor
 
-.navbar, .navbar .links
-    color blue
+.navbar span
+    color $dicabegColor
 
 .nav-item a:not(.external).router-link-active
-    border-bottom-color #F37135
+    border-bottom-color $dicabegColor
 
 .nav-item a:not(.external):hover
-    border-bottom-color #F37135
+    border-bottom-color $dicabegColor
 
 .sidebar
     color white
-    background #F37135
+    background $dicabegColor
 
 .sidebar a
     color white
 
-.sidebar ul li a:hover
-	color #404040
-
-.sidebar ul li a.active
-	color  #404040
-	border-left-color #404040
-
 .prev a:hover, .next a:hover
-	color #F37135
+	color $dicabegColor
 
 blockquote
-	border-left-color #F37135
+	border-left-color $dicabegColor
+
+img
+    display block
+
+#logo
+    float left
+    dimension 80px
+    padding-right 10px
+
+img.portada
+    float right
+    width 50%
+    border-radius 30px
+
+img.avatars
+    float left
+    dimension 100px
+    border-radius 50%
+    margin 30px 10px 0 0
