@@ -1,30 +1,31 @@
 module.exports = {
     base: "/doc-dicabeg/",
     title: 'Dicabeg',
+    lang: "es-VE",
+    description: 'Página de documentación para la app movil dicabeg',
     head: [
         ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto' }],
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
-    description: 'Página de documentación para la app movil dicabeg',
     themeConfig: {
+        search: false,
+        logo: '/img/logo_dicabeg.png',
         nav: [
-            { text: 'Inicio', link: '/' },
-            { text: 'Autores', link: '/autors' },
+            { text: 'Creadores', link: '/creators' },
             { text: 'Contacto', link: '/contact' },
         ],
-
-        search: false,
-
         sidebar: [
             {
                 title: 'Menú',
                 collapsable: false,
                 children: [
+                    '/',
                     '/menu/images',
-                    '/menu/download',
-                    '/menu/politic'
+                    '/menu/politic',
+                    '/menu/download'
                 ]
             }
-        ]
+        ],
+        activeHeaderLinks: false,
     }
 }
