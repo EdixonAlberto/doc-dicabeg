@@ -10,20 +10,35 @@
 
 > Programación
 
-<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" /> <h4>Edixon Piña</h4> [Twitter](https://twitter.com/EdixonAlbertto)
+<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" /> <!-- <h3>Edixon Piña</h3> -->
+
+### Edixon Piña
+[@EdixonAlbertto](https://twitter.com/EdixonAlbertto) |
+[Linkedin](https://) |
+[Correo](https://)
 
     Ingeniero Electrónico en Computación
     Backend Developer
 
 <!-- TODO: conseguir las demas redes y fotos de perfil -->
 
-<img class="avatars" :src="$withBase('/img/avatars/javier.jpg')" alt="Avatar Romulo" /> <h4>Romulo Corona</h4> [Twitter]()
+---
+
+<img class="avatars" :src="$withBase('/img/avatars/javier.jpg')" alt="Avatar Romulo" />
+
+### Romulo Corona
+[@Romuliño](https://twitter.com/) |
+[Linkedin](https://) |
+[Correo](https://)
 
     Ingeniero Electrónico en Computación
     Frontend Developer
 
+---
 
-<img class="avatars" :src="$withBase('/img/avatars/carlos.jpg')" alt="Avatar Carlos" /> <h4>Carlos Yaguaz</h4> [Twitter]()
+<img class="avatars" :src="$withBase('/img/avatars/carlos.png')" alt="Avatar Carlos" />
+
+### Carlos Yaguaz
 
     Ingeniero Electrónico en Computación
     Frontend Developer
