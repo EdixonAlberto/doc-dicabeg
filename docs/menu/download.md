@@ -1,9 +1,15 @@
-# Descargar :tada:
+# Descargar
 
-<img class="portada" :src="$withBase('/img/portada_descarga.jpg')" alt="Portada Descarga" />
+<img class="covers cover-page-r" :src="$withBase('/img/portada_descarga.jpg')" alt="Portada Descarga" />
 
-**¡Descarga Ya!** nuestra aplicación en la tienda de Google Play.
+**¡Consigue ya!** nuestra aplicación en la tienda de Google Play.
 
-![Logo Google Play]()
+<a class="logos" href="https://play.google.com/apps/testing/com.decabeg_android" title="Descargar App" target="_blank">
+    <img :src="$withBase('/img/dicabeg.png')" alt="Logo Dicabeg" />
+</a>
 
-> [Descargar Dicabeg]()
+### App Dicabeg
+
+<br />
+
+:point_up: Solo haz clic sobre el **logo de dicabeg** para ser redirigido al sitio de descarga.
