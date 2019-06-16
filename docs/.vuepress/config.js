@@ -9,7 +9,7 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
-        logo: '/img/logo_dicabeg.png',
+        logo: '/img/dicabeg.png',
         nav: [
             { text: 'Creadores', link: '/creators' },
             { text: 'Contacto', link: '/contact' },
@@ -22,10 +22,17 @@ module.exports = {
                     '/',
                     '/menu/images',
                     '/menu/politic',
+                    '/menu/terms',
                     '/menu/download'
                 ]
             }
         ],
         activeHeaderLinks: false,
+        sidebarDepth: 0
+    },
+    markdown: {
+        anchor: {
+            permalink: false,
+        }
     }
 }
