@@ -1,23 +1,49 @@
 img
-    display block
+    display: block
 
-.portada
-    float right
-    width 50%
-    border-radius 30px
+.covers
+    width: 50%
+    border-radius: 30px
+
+.cover-page-r
+    float: right
+    margin: 0 0 20px 20px
+
+.cover-page-l
+    float: left
+    margin: 20px 20px 0 0
 
 .avatars
-    float left
+    float: left
     dimension 100px
-    border-radius 50%
-    margin 30px 10px 10px 0
+    border-radius: 50%
+    margin: 30px 10px 0 0
 
-.ico
-    float left
-    width 20px
-    height 10px
+.logos
+    float: left
+    transition: 0.2s
+    margin-right: 10px
 
-#logo
-    float left
-    dimension 80px
-    padding-right 10px
+.logos:hover
+    transform_scale_rotate()
+
+.networks-logo
+    margin: 10px 30px 50px 30px
+
+.networks-logo:hover
+    transform_scale_rotate()
+
+#money
+    margin: 20px
+    transition: 0.5s
+
+#money:hover
+    transform_spinning()
+
+@media screen and (max-width: 400px)
+    .portada
+        width: 100%
+
+    // #money
+    //     margin: 5px
+    //     width: 15%
