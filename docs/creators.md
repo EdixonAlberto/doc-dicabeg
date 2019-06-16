@@ -2,15 +2,15 @@
 
 <!-- TODO: colocar los demas creadores, pensar en otros subtitulos -->
 
-> CTO
+## CTO
 
-> Diseño
+## Diseño
 
-> Marketing
+## Marketing
 
-> Programación
+## Programadores
 
-<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" /> <!-- <h3>Edixon Piña</h3> -->
+<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" />
 
 ### Edixon Piña
 [@EdixonAlbertto](https://twitter.com/EdixonAlbertto) |
@@ -24,10 +24,10 @@
 
 ---
 
-<img class="avatars" :src="$withBase('/img/avatars/javier.jpg')" alt="Avatar Romulo" />
+<img class="avatars" :src="$withBase('/img/avatars/romulo.jpg')" alt="Avatar Romulo" />
 
 ### Romulo Corona
-[@Romuliño](https://twitter.com/) |
+[@](https://twitter.com/) |
 [Linkedin](https://) |
 [Correo](https://)
 

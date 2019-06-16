@@ -1,14 +1,21 @@
 # ¿Que es Dicabeg?
 
-<img class="portada" :src="$withBase('/img/portada_inicio.jpg')" alt="Portada Inicio" />
+<img class="covers cover-page-r" :src="$withBase('/img/portada_inicio.jpg')" alt="Portada Inicio" />
 
 Dicabeg es una aplicación movil que brinda a sus usuarios la posibilidad de ser recompensados por ver anuncios a través de videos.
 
-Los usuarios ganarán **dicag (moneda virtual de dicabeg)**, la cual podrán transferir a otros usuarios para el intercambio de bienes o servicios.
+Los usuarios ganarán **dicag**, moneda virtual que podrá ser transferida a otros usuarios para el intercambio de bienes y servicios o cambiada por productos en determinados establecimientos.
 
-> <img :src="$withBase('/img/moneda_dicag.png')" alt="Moneda Dicabeg" width="6%" style="margin: 5px;" />
-> Moneda Dicag
+## Moneda Dicag
 
-### Motivo
+<img class="logos" id="money" :src="$withBase('/img/dicag.png')" alt="Moneda Dicag" />
 
-Dicabeg nace de la necesidad de obtener otro medio de **ingreso para la población**, generar una **moneda alternativa de intercambio** y promover un **modo convencional de pago** para las ciudades, de tal manera que se pueda tener una plataforma digital solida con la cual obtener ingresos extras y realizar operaciones comerciales cotidianas de forma rápida y segura.
+La moneda **dicag** es una **moneda virtual** unicamente proporcionada por la aplicación **dicabeg** a los usuarios registrados, la misma será administrada a través de la aplicación, donde el usuario podrá acumular tantas monedas como desee, transferirlas a otros usuarios registrados o cambiarlas por productos.
+
+## Motivo
+
+<img class="covers cover-page-l" :src="$withBase('/img/portada_inicio2.jpg')" alt="Portada Inicio 2" />
+
+**Dicabeg** nace de la necesidad de obtener otro medio de **ingreso para la población**, generar una **moneda alternativa de intercambio** y promover otro **modo convencional de pago** en las ciudades.
+
+Con la finalidad de crear una plataforma digital solida con la cual obtener ingresos extras y realizar operaciones comerciales de forma cotidiana, rápida y segura.
