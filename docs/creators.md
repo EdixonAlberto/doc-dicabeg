@@ -1,44 +1,55 @@
 # Creadores
 
-<!-- TODO: colocar los demas creadores, pensar en otros subtitulos -->
+## CEO
 
-## CTO
+<img class="avatars" :src="$withBase('/img/avatars/leonardo.png')" alt="Avatar Leonardo" />
 
-## Diseño
+### Leonardo Pratto
+[Instagram](https://www.instagram.com/leonardopratto98) |
+[Correo](mailto:pratoleonardo98@gmail.com)
 
-## Marketing
+<br />
 
-## Programadores
 
-<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" />
+## CMO & CCO
 
-### Edixon Piña
-[@EdixonAlbertto](https://twitter.com/EdixonAlbertto) |
-[Linkedin](https://) |
-[Correo](https://)
+<img class="avatars" :src="$withBase('/img/avatars/jose.png')" alt="Avatar Jose" />
 
-    Ingeniero Electrónico en Computación
-    Backend Developer
+### José
+[Instagram](https://www.instagram.com/entrepreneurvzla/) |
+[Correo](mailto:)
 
-<!-- TODO: conseguir las demas redes y fotos de perfil -->
+<br />
 
----
+
+## Developers
 
 <img class="avatars" :src="$withBase('/img/avatars/romulo.jpg')" alt="Avatar Romulo" />
 
 ### Romulo Corona
-[@](https://twitter.com/) |
-[Linkedin](https://) |
-[Correo](https://)
+[Linkedin](https://ve.linkedin.com/in/romulo-gabriel-corona-gamarra-691860153) |
+[Correo](mailto:romulocg25@gmail.com)
 
     Ingeniero Electrónico en Computación
     Frontend Developer
 
----
+
+<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" />
+
+### Edixon Piña
+[Linkedin](https://www.linkedin.com/in/edixonalberto) |
+[Twitter](https://www.twitter.com/EdixonAlbertto) |
+[Correo](mailto:edixonalbertto@gmail.com)
+
+    Ingeniero Electrónico en Computación
+    Backend Developer
+
 
 <img class="avatars" :src="$withBase('/img/avatars/carlos.png')" alt="Avatar Carlos" />
 
 ### Carlos Yaguaz
+[Linkedin](https://ve.linkedin.com/in/carlos-alfredo-yaguaz-colmenarez-63a466109) |
+[Correo](mailto:carlosyaguaz@gmail.com)
 
     Ingeniero Electrónico en Computación
     Frontend Developer

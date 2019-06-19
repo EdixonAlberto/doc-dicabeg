@@ -2,13 +2,15 @@
 
 <img class="covers cover-page-r" :src="$withBase('/img/portada_inicio.jpg')" alt="Portada Inicio" />
 
-Dicabeg es una aplicación movil que brinda a sus usuarios la posibilidad de ser recompensados por ver anuncios a través de videos.
+<img class="logos-spin" :src="$withBase('/img/dicabeg.png')" alt="Logo Dicabeg" />
+
+Dicabeg es una aplicación movil que brinda a sus usuarios la posibilidad de ser recompensados por ver anuncios a través de videos respondiendo una serie de preguntas.
 
 Los usuarios ganarán **dicag**, moneda virtual que podrá ser transferida a otros usuarios para el intercambio de bienes y servicios o cambiada por productos en determinados establecimientos.
 
 ## Moneda Dicag
 
-<img class="logos" id="money" :src="$withBase('/img/dicag.png')" alt="Moneda Dicag" />
+<img class="logos-spin" :src="$withBase('/img/dicag.png')" alt="Moneda Dicag" />
 
 La moneda **dicag** es una **moneda virtual** unicamente proporcionada por la aplicación **dicabeg** a los usuarios registrados, la misma será administrada a través de la aplicación, donde el usuario podrá acumular tantas monedas como desee, transferirlas a otros usuarios registrados o cambiarlas por productos.
 
