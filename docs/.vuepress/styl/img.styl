@@ -1,8 +1,13 @@
 img
     display: block
 
+.navbar .logo
+    height: 50px;
+    width: 55px;
+    margin-top: -6px;
+
 .covers
-    width: 50%
+    width: 48%
     border-radius: 30px
 
 .cover-page-r
@@ -21,8 +26,8 @@ img
 
 .logos
     float: left
-    transition: 0.2s
     margin-right: 10px
+    transition: 0.2s
 
 .logos:hover
     transform_scale_rotate()
@@ -33,17 +38,26 @@ img
 .networks-logo:hover
     transform_scale_rotate()
 
-#money
-    margin: 20px
+.logos-spin
+    float: left
+    margin: 20px 10px 0 0
     transition: 0.5s
 
-#money:hover
-    transform_spinning()
+.logos-spin:hover
+    transform_scale_spinning()
+
+.screen
+    float: left
+    width: 30%
+    margin: 10px 60px 0 0
+    transition: 0.5s
+
+.screen:hover
+    transform_scale: 1.3
 
 @media screen and (max-width: 400px)
-    .portada
+    .covers, .screen
         width: 100%
 
-    // #money
-    //     margin: 5px
-    //     width: 15%
+    .screen:hover
+        transform_scale: 1.2

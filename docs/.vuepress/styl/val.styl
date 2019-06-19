@@ -1,5 +1,4 @@
-$dicabegColor = #F37135
-$blackColor = #404040
+@import colors
 
 dimension()
     width: arguments
@@ -8,6 +7,10 @@ dimension()
 transition()
     -moz-transition: -moz-transform arguments ease-out
     -webkit-transition: -webkit-transform arguments ease-out
+
+transform_scale()
+    -moz-transform: scale(arguments)
+    -webkit-transform: scale(arguments)
 
 transform_scale_rotate()
     -moz-transform: scale(1.16) rotate(10deg);
