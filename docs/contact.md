@@ -2,7 +2,7 @@
 
 ## Correo Electrónico
 
-Nuestro equipo a puesto a su disposición un [correo electrónico](#dicabeg2019@gmail.com) para que pueda comunicarse con nosotros. Podrá hacernos llegar su feedback relacionado con los siguientes aspectos:
+Nuestro equipo a puesto a su disposición un correo electrónico para que pueda comunicarse con nosotros. Podrá hacernos llegar su feedback relacionado con los siguientes aspectos:
 
 :heavy_check_mark: Reportar algún fallo o error.
 
@@ -13,7 +13,6 @@ Nuestro equipo a puesto a su disposición un [correo electrónico](#dicabeg2019@
 :heavy_check_mark: Dar una sugerencia o critica constructiva.
 
 :heavy_check_mark: Solicitar una nueva característica.
-
 
 Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso de que presente un problema le brindaremos toda la ayuda posible por este medio:
 

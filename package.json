@@ -18,7 +18,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "npm run build | gh-pages -d ./docs/.vuepress/dist"
+    "deploy": "gh-pages -d ./docs/.vuepress/dist",
+    "post": "npm run build && npm run deploy"
   },
   "dependencies": {
     "vuepress": "^0.14.11"
