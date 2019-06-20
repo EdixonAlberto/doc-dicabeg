@@ -36,6 +36,6 @@ Síguenos en cualquiera de nuestras redes sociales:
     <img :src="$withBase('/img/instagram.png')" alt="Logo Instagram"> @dicabeg
 </a>
 
-<a class="logos networks-logo" href="*" title="Síguenos en Facebook" target="_blank">
+<a class="" title="PROXIMAMENTE" target="_blank">
     <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> dicabeg
 </a>

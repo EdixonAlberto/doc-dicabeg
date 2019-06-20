@@ -11,17 +11,21 @@
 <br />
 
 
+
 ## CMO & CCO
 
 <img class="avatars" :src="$withBase('/img/avatars/jose.png')" alt="Avatar Jose" />
 
-### José
-[Instagram](https://www.instagram.com/entrepreneurvzla/) |
-[Correo](mailto:)
+<!-- José Daniel Cordero Escobar -->
+### José Cordero
+[Instagram](https://www.instagram.com/entrepreneurvzla) |
+[Correo](mailto:jdclacroix@outlook.com)
 
 <br />
 
 
+<!-- TODO: realizar plantilla para mostrar los datos de profesion con mejor detalle y
+que sea responsive -->
 ## Developers
 
 <img class="avatars" :src="$withBase('/img/avatars/romulo.jpg')" alt="Avatar Romulo" />
@@ -34,7 +38,7 @@
     Frontend Developer
 
 
-<img class="avatars" :src="$withBase('/img/avatars/edixon.png')" alt="Avatar Edixon" />
+<img class="avatars" src="https://secure.gravatar.com/avatar/9d9876b16f45d91d1cb192bf3a035548?size=400" alt="Avatar Edixon" />
 
 ### Edixon Piña
 [Linkedin](https://www.linkedin.com/in/edixonalberto) |
