@@ -21,7 +21,7 @@ module.exports = {
                 children: [
                     '/',
                     '/menu/images',
-                    '/menu/politic',
+                    '/menu/policy',
                     '/menu/terms',
                     '/menu/download'
                 ]
