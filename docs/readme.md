@@ -12,7 +12,7 @@ Los usuarios ganaran **dicag** (moneda generada por la aplicación), la cual ser
 
 <img class="logos-spin" :src="$withBase('/img/dicag.png')" alt="Moneda Dicag" />
 
-La moneda dicag es una **criptomoneda** creada por Dicabeg, entregada unicamente a los usuarios registrados en la aplicación, la misma podrá ser acumulada, transferida a otros usuarios o cambiada por productos.
+La moneda dicag es creada por Dicabeg y es entregada unicamente a los usuarios registrados en la aplicación, la misma podrá ser acumulada, transferida a otros usuarios o cambiada por productos.
 
 ## Motivo
 

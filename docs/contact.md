@@ -20,7 +20,7 @@ Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso
     <img :src="$withBase('/img/email.png')" alt="Logo Email">
 </a>
 
-### dicabeg2019@gmail.com
+<h3 class="h3-logos">dicabeg2019@gmail.com</h3>
 
 <br />
 
@@ -36,6 +36,6 @@ Síguenos en cualquiera de nuestras redes sociales:
     <img :src="$withBase('/img/instagram.png')" alt="Logo Instagram"> @dicabeg
 </a>
 
-<a class="" title="PROXIMAMENTE" target="_blank">
-    <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> dicabeg
+<a class="logos networks-logo" title="PROXIMAMENTE" target="_blank">
+    <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> PROXIMAMENTE
 </a>

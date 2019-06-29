@@ -8,7 +8,7 @@
     <img :src="$withBase('/img/dicabeg.png')" alt="Logo Dicabeg" />
 </a>
 
-### App Dicabeg
+<h3 class="h3-logos">App Dicabeg</h3>
 
 <br />
 

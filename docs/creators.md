@@ -26,9 +26,10 @@
 
 <!-- TODO: realizar plantilla para mostrar los datos de profesion con mejor detalle y
 que sea responsive -->
-## Developers
 
-<img class="avatars" :src="$withBase('/img/avatars/romulo.jpg')" alt="Avatar Romulo" />
+## Programadores
+
+<img class="avatars" :src="$withBase('/img/avatars/romulo.png')" alt="Avatar Romulo" />
 
 ### Romulo Corona
 [Linkedin](https://ve.linkedin.com/in/romulo-gabriel-corona-gamarra-691860153) |
