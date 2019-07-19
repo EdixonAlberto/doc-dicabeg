@@ -32,10 +32,14 @@ Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso
 
 Síguenos en cualquiera de nuestras redes sociales:
 
+<a class="logos networks-logo" href="https://twitter.com/Dicapp1" title="Síguenos en Twitter" target="_blank">
+    <img :src="$withBase('/img/twitter.png')" alt="Logo Twitter"> @Dicapp1
+</a>
+
 <a class="logos networks-logo" href="https://www.instagram.com/dicabeg" title="Síguenos en Instagram" target="_blank">
     <img :src="$withBase('/img/instagram.png')" alt="Logo Instagram"> @dicabeg
 </a>
 
-<a class="logos networks-logo" title="PROXIMAMENTE" target="_blank">
-    <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> PROXIMAMENTE
-</a>
+<!-- <a class="logos networks-logo" title="Síguenos en Facebook" target="_blank">
+    <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> Facebook
+</a> -->
