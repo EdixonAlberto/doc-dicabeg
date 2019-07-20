@@ -10,6 +10,8 @@
 
 <h3 class="h3-logos">App Dicabeg</h3>
 
-<br />
-
 :point_up: Solo haz clic sobre el **logo de dicabeg** para ser redirigido al sitio de descarga.
+
+### Requisitos:
+
+- Android **5.0** (Lollipop) en adelante
