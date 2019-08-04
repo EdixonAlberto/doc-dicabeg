@@ -1,6 +1,6 @@
 # ¿Que es Dicabeg?
 
-<img class="covers cover-page-r" :src="$withBase('/img/portada_inicio.jpg')" alt="Portada Inicio" />
+<img class="covers cover-page" :src="$withBase('/img/portada_inicio.jpg')" alt="Portada Inicio" />
 
 <img class="logos-spin" :src="$withBase('/img/dicabeg.png')" alt="Logo Dicabeg" />
 
@@ -17,7 +17,7 @@ La moneda dicag es creada por Dicabeg y es entregada unicamente a los usuarios r
 
 ## Visión
 
-<img class="covers cover-page-l" :src="$withBase('/img/portada_inicio2.jpg')" alt="Portada Inicio 2" />
+<img class="covers cover-page" :src="$withBase('/img/portada_inicio2.jpg')" alt="Portada Inicio 2" />
 
 Dicabeg es una aplicación que está **100% comprometida con ayudar al venezolano**, recompensando a nuestros usuarios por hacer algo que esta unido a sus vidas cotidianas, mejorando su calidad de vida y aumentando las ventas de los empresarios.
 

@@ -7,17 +7,17 @@ Síguenos en cualquiera de nuestras redes sociales:
 <tabla align="center" cellpadding="0" cellspacing="0">
 <tr>
 <td class="networks">
-    <a class="logos networks-logo" href="https://twitter.com/Dicapp1" title="Síguenos en Twitter" target="_blank">
-        <img :src="$withBase('/img/twitter.png')" alt="Logo Twitter"> @Dicapp1
+    <a href="https://twitter.com/Dicapp1" title="Síguenos en Twitter" target="_blank">
+        <img class="networks-logo" :src="$withBase('/img/twitter.png')" alt="Logo Twitter"> @Dicapp1
     </a>
 </td>
 
 <td class="networks">
-    <a class="logos networks-logo" href="https://www.instagram.com/dicabeg" title="Síguenos en Instagram" target="_blank">
-        <img :src="$withBase('/img/instagram.png')" alt="Logo Instagram"> @dicabeg
+    <a href="https://www.instagram.com/dicabeg" title="Síguenos en Instagram" target="_blank">
+        <img class="networks-logo" :src="$withBase('/img/instagram.png')" alt="Logo Instagram"> @dicabeg
     </a>
 </td>
-
+<!-- TODO: Proximamente Facebook -->
 <!-- <td class="networks">
     <a class="logos networks-logo" title="Síguenos en Facebook" target="_blank">
         <img :src="$withBase('/img/facebook.png')" alt="Logo Facebook"> Facebook
@@ -25,10 +25,6 @@ Síguenos en cualquiera de nuestras redes sociales:
 </td> -->
 </tr>
 </tabla>
-
-
-
-
 
 ## Correo Electrónico
 
@@ -46,8 +42,8 @@ Nuestro equipo a puesto a su disposición un correo electrónico para que pueda 
 
 Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso de que presente un problema le brindaremos toda la ayuda posible por este medio:
 
-<a class="logos" href="mailto:dicabeg2019@gmail.com" title="Enviar Email" target="_blank">
-    <img :src="$withBase('/img/email.png')" alt="Logo Email">
+<a href="mailto:dicabeg2019@gmail.com" title="Enviar Email" target="_blank">
+    <img id="mail-logo" :src="$withBase('/img/email.png')" alt="Logo Email">
 </a>
 
 <h3 class="h3-logos">dicabeg2019@gmail.com</h3>
@@ -56,4 +52,4 @@ Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso
 
 :point_up: Al hacer clic sobre el **logo del correo** puede enviarnos un mensaje rápidamente.
 
-> **Nota:** cualquier tipo de mensaje que no esté relacionado con los puntos anteriormente listados o que contenga contenido *inapropiado o vulgar*, **NO se tomará en cuenta** y será eliminado de nuestra bandeja de entrada. Sea respetuoso y cortes.
+> **Nota:** cualquier tipo de mensaje que no esté relacionado con los puntos anteriormente listados o que contenga contenido *inapropiado*, **NO se tomará en cuenta** y será eliminado de nuestra bandeja de entrada. Sea respetuoso y cortes.

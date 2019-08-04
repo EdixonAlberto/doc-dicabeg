@@ -1,6 +1,6 @@
 # Descargar
 
-<img class="covers cover-page-r" :src="$withBase('/img/portada_descarga.jpg')" alt="Portada Descarga" />
+<img class="covers cover-page" :src="$withBase('/img/portada_descarga.jpg')" alt="Portada Descarga" />
 
 **¡Consigue ya!** nuestra aplicación en la tienda de Google Play.
 
