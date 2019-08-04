@@ -2,15 +2,12 @@
 
 <img class="covers cover-page" :src="$withBase('/img/portada_descarga.jpg')" alt="Portada Descarga" />
 
-**¡Consigue ya!** nuestra aplicación en la tienda de Google Play.
+Nuestra app ahora está disponible en Google Play. **¡Consiguela Ya!**
 
-<a class="logos" href="https://play.google.com/apps/testing/com.decabeg_android" title="Descargar App" target="_blank">
-    <img :src="$withBase('/img/dicabeg.png')" alt="Logo Dicabeg" />
+<a href='https://play.google.com/store/apps/details?id=com.decabeg_android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+    <img id="badge" alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/images/generic/es-419_badge_web_generic.png'/>
 </a>
-
-<h3 class="h3-logos">App Dicabeg</h3>
-
-:point_up: Solo haz clic sobre el **logo de dicabeg** para ser redirigido al sitio de descarga.
+Google Play y el logotipo de Google Play son marcas comerciales de Google LLC.
 
 ### Requisitos:
 
