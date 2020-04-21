@@ -52,4 +52,4 @@ Estaremos encantado de leer su mensaje para atender a sus necesidades, y en caso
 
 :point_up: Al hacer clic sobre el **logo del correo** puede enviarnos un mensaje rápidamente.
 
-> **Nota:** cualquier tipo de mensaje que no esté relacionado con los puntos anteriormente listados o que contenga contenido *inapropiado*, **NO se tomará en cuenta** y será eliminado de nuestra bandeja de entrada. Sea respetuoso y cortes.
+> **Nota:** cualquier tipo de mensaje que no esté relacionado con los puntos anteriormente listados o que contenga contenido _inapropiado_, **NO se tomará en cuenta** y será eliminado de nuestra bandeja de entrada. Sea respetuoso y cortes.

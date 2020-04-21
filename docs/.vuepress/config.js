@@ -5,7 +5,14 @@ module.exports = {
   description: "Documentación sobre aplicación movil Dicabeg",
   head: [
     ["meta", { name: "author", content: "Edixon Piña" }],
-    ["meta", { property: "og:image", content: "https://raw.githubusercontent.com/EdixonAlberto/doc-dicabeg/master/.github/index-page.png" }],
+    [
+      "meta",
+      {
+        property: "og:image",
+        content:
+          "https://raw.githubusercontent.com/EdixonAlberto/doc-dicabeg/master/.github/index-page.png"
+      }
+    ],
     [
       "link",
       {
