@@ -14,7 +14,6 @@ Los usuarios ganaran **dicag** (moneda virtual generada por Dicabeg) y será oto
 
 La moneda dicag es creada por Dicabeg y es entregada unicamente a los usuarios registrados en la aplicación, la misma podrá ser acumulada, transferida a otros usuarios o cambiada por productos.
 
-
 ## Visión
 
 <img class="covers cover-page" :src="$withBase('/img/portada_inicio2.jpg')" alt="Portada Inicio 2" />

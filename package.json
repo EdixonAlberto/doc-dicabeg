@@ -1,13 +1,19 @@
 {
   "name": "doc-dicabeg",
   "version": "1.0.0",
-  "private": true,
-  "description": "pagina Web para la documentación de la aplicación movil dicabeg",
+  "description": "Static website to document mobile application Dicabeg",
+  "keywords": [
+    "vuepress",
+    "vuejs",
+    "markdown",
+    "stylus-css",
+    "static-site-generator"
+  ],
   "license": "GPL-3.0-only",
   "author": {
-    "name": "Edixon Alberto",
+    "name": "Edixon Piña",
     "email": "edixonalbertto@gmail.com",
-    "url": "https://linkedin.com/in/edixonalberto"
+    "url": "https://www.edixonalberto.com"
   },
   "homepage": "https://edixonalberto.github.io/doc-dicabeg",
   "reposytory": {
